@@ -1,0 +1,1735 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/butter.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🧈 คอร์นเชค รสข้าวโพดอบเนย",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ข้าวโพดเนยหอม กลิ่นยั่วน้ำลายตั้งแต่เปิดถัง",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=butter"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=butter"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=butter"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/chocolate.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍫 คอร์นเชค รสช็อคโกแลต",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ข้าวโพดคลุกช็อคหวานเข้ม ฟินจัดเต็ม",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=chocolate"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=chocolate"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=chocolate"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/cheese.jpg?v=2",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🧀 คอร์นเชค รสชีส",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ชีสล้นปาก รสนัวสุดในร้าน ขายดีอันดับ 1 🧀",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/tomato.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍅 คอร์นเชค รสซอสมะเขือเทศ",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เปรี้ยวมะเขือเทศ สดใสตื่นใจ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=tomato"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=tomato"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=tomato"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/nori.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🌊 คอร์นเชค รสโนริสาหร่าย",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "สาหร่ายเค็มกรุบ หอมญี่ปุ่นๆ ติดใจ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=nori"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=nori"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=nori"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/vanilla-caramel.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍦 คอร์นเชค รสวนิลาคาราเมล",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "หวานคาราเมลกลิ่นวนิลา จิบเดียวฟิน",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=vanilla-caramel"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=vanilla-caramel"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=vanilla-caramel"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/wasabi.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🟢 คอร์นเชค รสวาซาบิ",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "วาซาบิจี๊ดจมูก แสบขั้นเทพ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=wasabi"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=wasabi"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=wasabi"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/srisacha.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🔥 คอร์นเชค รสซอสศรีราชา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ซอสศรีราชาจัดเต็ม เปรี้ยวแซ่บโดน",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=srisacha"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=srisacha"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=srisacha"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/truffle.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍄 คอร์นเชค รสทรัฟเฟิล",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ทรัฟเฟิลหอมหรู ขายดี #4 กินแล้วรู้สึกเป็น CEO 🍄",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=truffle"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=truffle"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=truffle"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/corn-shake/hot-spicy.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🌶️ คอร์นเชค รสฮอทแอนด์สไปซี่",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เผ็ดร้อนซู่ซ่า ปากแสบใจชอบ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/corn-shake?src=04&variant=hot-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/corn-shake?src=04&variant=hot-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/corn-shake?src=04&variant=hot-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

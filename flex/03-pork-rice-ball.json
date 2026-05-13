@@ -1,0 +1,351 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/pork-rice-ball/fish-sauce.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍙 ข้าวหมูปั้น น้ำปลาหอม",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ข้าวปั้นหมูราดน้ำปลาหอม หอมจนต้องสั่งซ้ำ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿99",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/pork-rice-ball?src=03&variant=fish-sauce"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/pork-rice-ball?src=03&variant=fish-sauce"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/pork-rice-ball?src=03&variant=fish-sauce"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/pork-rice-ball/yum-spicy.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🌶 ข้าวหมูปั้น ยำแซ่บซี๊ด",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ยำแซ่บซี๊ดเปรี้ยวเผ็ด ปั้นคำเดียวก็ยังไม่หยุด 🌶️",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿99",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/pork-rice-ball?src=03&variant=yum-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/pork-rice-ball?src=03&variant=yum-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/pork-rice-ball?src=03&variant=yum-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    }
+  ]
+}

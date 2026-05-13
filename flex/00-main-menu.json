@@ -1,0 +1,620 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "8px",
+    "backgroundColor": "#FFFFFF",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+        "size": "xxl",
+        "aspectRatio": "300:95",
+        "aspectMode": "fit",
+        "align": "center"
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#FFFFFF",
+    "paddingAll": "16px",
+    "spacing": "lg",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ข้าวหมูปั้น",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "cornerRadius": "8px",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/pork-rice-ball.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": "#FFEB3B",
+                    "cornerRadius": "4px",
+                    "paddingTop": "4px",
+                    "paddingBottom": "4px",
+                    "paddingStart": "8px",
+                    "paddingEnd": "8px",
+                    "position": "absolute",
+                    "offsetTop": "8px",
+                    "offsetEnd": "8px",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เมนูใหม่!",
+                        "weight": "bold",
+                        "size": "xs",
+                        "color": "#F4791F"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=pork-rice-ball&src=main",
+                  "displayText": "เมนูข้าวหมูปั้น"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ข้าวหมูอบรมควัน",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "cornerRadius": "8px",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/pork-smoked.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": "#43A047",
+                    "cornerRadius": "4px",
+                    "paddingTop": "4px",
+                    "paddingBottom": "4px",
+                    "paddingStart": "8px",
+                    "paddingEnd": "8px",
+                    "position": "absolute",
+                    "offsetTop": "8px",
+                    "offsetEnd": "8px",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เมนูแนะนำ",
+                        "weight": "bold",
+                        "size": "xs",
+                        "color": "#FFFFFF"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=pork-smoked&src=main",
+                  "displayText": "เมนูข้าวหมูอบรมควัน"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "ข้าวไก่อบรมควัน",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "cornerRadius": "8px",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/chicken-smoked.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": "#43A047",
+                    "cornerRadius": "4px",
+                    "paddingTop": "4px",
+                    "paddingBottom": "4px",
+                    "paddingStart": "8px",
+                    "paddingEnd": "8px",
+                    "position": "absolute",
+                    "offsetTop": "8px",
+                    "offsetEnd": "8px",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เมนูแนะนำ",
+                        "weight": "bold",
+                        "size": "xs",
+                        "color": "#FFFFFF"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=chicken-smoked&src=main",
+                  "displayText": "เมนูข้าวไก่อบรมควัน"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "คอร์นเชค",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "cornerRadius": "8px",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/corn-shake.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": "#E53935",
+                    "cornerRadius": "4px",
+                    "paddingTop": "4px",
+                    "paddingBottom": "4px",
+                    "paddingStart": "8px",
+                    "paddingEnd": "8px",
+                    "position": "absolute",
+                    "offsetTop": "8px",
+                    "offsetEnd": "8px",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เมนูยอดฮิต",
+                        "weight": "bold",
+                        "size": "xs",
+                        "color": "#FFFFFF"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=corn-shake&src=main",
+                  "displayText": "เมนูคอร์นเชค"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "โปเตโต้เชค",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/potato-shake.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  }
+                ],
+                "cornerRadius": "8px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=potato-shake&src=main",
+                  "displayText": "เมนูโปเตโต้เชค"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "กาแฟอเมริกาโน่",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/americano.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  }
+                ],
+                "cornerRadius": "8px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=americano&src=main",
+                  "displayText": "เมนูอเมริกาโน่"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "กาแฟลาเต้",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "cornerRadius": "8px",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/covers/latte.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": "#E53935",
+                    "cornerRadius": "4px",
+                    "paddingTop": "4px",
+                    "paddingBottom": "4px",
+                    "paddingStart": "8px",
+                    "paddingEnd": "8px",
+                    "position": "absolute",
+                    "offsetTop": "8px",
+                    "offsetEnd": "8px",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เมนูยอดฮิต",
+                        "weight": "bold",
+                        "size": "xs",
+                        "color": "#FFFFFF"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=latte&src=main",
+                  "displayText": "เมนูลาเต้"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "xs",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "โซดาดริ้ง",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#7A4F00"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "cornerRadius": "8px",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@45547d0/covers/punch-soda.jpg",
+                    "aspectRatio": "1:1",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "backgroundColor": "#FFEB3B",
+                    "cornerRadius": "4px",
+                    "paddingTop": "4px",
+                    "paddingBottom": "4px",
+                    "paddingStart": "8px",
+                    "paddingEnd": "8px",
+                    "position": "absolute",
+                    "offsetTop": "8px",
+                    "offsetEnd": "8px",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เมนูใหม่!",
+                        "weight": "bold",
+                        "size": "xs",
+                        "color": "#F4791F"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "backgroundColor": "#F4791F",
+                "cornerRadius": "6px",
+                "paddingTop": "8px",
+                "paddingBottom": "8px",
+                "action": {
+                  "type": "postback",
+                  "label": "หิวแล้ว! สั่งเลย",
+                  "data": "menu=soda&src=main",
+                  "displayText": "เมนูโซดา"
+                },
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "หิวแล้ว! สั่งเลย",
+                    "color": "#FFFFFF",
+                    "weight": "bold",
+                    "size": "xs",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

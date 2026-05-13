@@ -1,0 +1,1043 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/latte/apple-vanilla.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "☕ Latte กลิ่น Apple Vanilla",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "แอปเปิ้ลหวานๆ วานิลลานุ่มๆ จิบแล้วยิ้มได้ทั้งวัน 🍎",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿70",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/latte?src=06&variant=apple-vanilla"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/latte?src=06&variant=apple-vanilla"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/latte?src=06&variant=apple-vanilla"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/latte/butterscotch.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "☕ Latte กลิ่น Butterscotch",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "บัตเตอร์สก็อตช์หวานๆ ผสมกาแฟนุ่ม ฟินสุดๆ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿70",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/latte?src=06&variant=butterscotch"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/latte?src=06&variant=butterscotch"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/latte?src=06&variant=butterscotch"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/latte/coconut.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "☕ Latte กลิ่น Coconut",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "มะพร้าวหอมไทยๆ จิบทีเดียวพาตัวเองไปทะเล 🥥",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿70",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/latte?src=06&variant=coconut"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/latte?src=06&variant=coconut"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/latte?src=06&variant=coconut"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/latte/lychee.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "☕ Latte กลิ่น Lychee",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ลิ้นจี่สดชื่น จิบเดียวเปิดวันใหม่แบบสดใส 🍒",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿70",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/latte?src=06&variant=lychee"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/latte?src=06&variant=lychee"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/latte?src=06&variant=lychee"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/latte/melon.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "☕ Latte กลิ่น Melon",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เมล่อนหวานเย็น สดชื่น สลายความง่วงทั้งวัน 🍈",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿70",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/latte?src=06&variant=melon"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/latte?src=06&variant=melon"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/latte?src=06&variant=melon"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/latte/strawberry.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "☕ Latte กลิ่น Strawberry",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "สตอเบอรี่หวานชุ่ม เผลอก็หมดแก้วไม่รู้ตัว 🍓",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿70",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/latte?src=06&variant=strawberry"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/latte?src=06&variant=strawberry"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/latte?src=06&variant=strawberry"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      }
+    }
+  ]
+}

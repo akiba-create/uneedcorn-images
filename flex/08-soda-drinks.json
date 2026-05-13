@@ -1,0 +1,870 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@45547d0/covers/berry-soda.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍓 เบอร์รี่โซดา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เครื่องดื่มเบอร์รี่โซดา หอมหวานเปรี้ยว ซ่าสดชื่น",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿65",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/soda?src=08&variant=berry-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/soda?src=08&variant=berry-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/soda?src=08&variant=berry-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@45547d0/covers/pineapple-chili-soda.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍍 สับปะรดพริกเกลือโซดา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "หอมสับปะรด เปรี้ยว หวาน ซ่า กำลังดี",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿65",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/soda?src=08&variant=pineapple-chili-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/soda?src=08&variant=pineapple-chili-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/soda?src=08&variant=pineapple-chili-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@45547d0/covers/guava-plum-soda.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍐 ฝรั่งแช่บ๊วยโซดา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "หอม อร่อย ถึงรสชาติฝรั่งแช่บ๊วย ขายดีอันดับ #5",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿65",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/soda?src=08&variant=guava-plum-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/soda?src=08&variant=guava-plum-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/soda?src=08&variant=guava-plum-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@45547d0/covers/punch-soda.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍹 พั้นซ์โซดา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เปรี้ยว หวาน ซ่า หอมผลไม้รวม",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿65",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/soda?src=08&variant=punch-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/soda?src=08&variant=punch-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/soda?src=08&variant=punch-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@45547d0/covers/mango-bao-soda.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🥭 มะม่วงเบาโซดา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เครื่องดื่มแบบใหม่ หอมกลิ่นมะม่วงเบา เปรี้ยว ซ่า สดชื่น",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿65",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/soda?src=08&variant=mango-bao-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/soda?src=08&variant=mango-bao-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/soda?src=08&variant=mango-bao-soda"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

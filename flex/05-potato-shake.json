@@ -1,0 +1,1735 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/butter.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🧈 โปเตโต้เชค รสข้าวโพดอบเนย",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เนยหอมจัด มันฝรั่งกรอบนอกฟินใน",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=butter"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=butter"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=butter"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/chocolate.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍫 โปเตโต้เชค รสช็อคโกแลต",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "มันฝรั่งคลุกช็อค แฟนช็อคต้องโดน",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=chocolate"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=chocolate"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=chocolate"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/cheese.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🧀 โปเตโต้เชค รสชีส",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ชีสจัดเต็ม กรอบนอก นัวใน",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=cheese"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=cheese"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=cheese"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/tomato.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍅 โปเตโต้เชค รสซอสมะเขือเทศ",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เปรี้ยวมะเขือเทศ ลงตัวเหมือนพิซซ่า",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=tomato"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=tomato"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=tomato"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/nori.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🌊 โปเตโต้เชค รสโนริสาหร่าย",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "สาหร่ายญี่ปุ่นเค็มหอม กรุบเป็นนัก",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=nori"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=nori"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=nori"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/vanilla-caramel.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍦 โปเตโต้เชค รสวนิลาคาราเมล",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "วนิลา+คาราเมล หวานปังแต่ไม่เลี่ยน",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=vanilla-caramel"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=vanilla-caramel"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=vanilla-caramel"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/wasabi.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🟢 โปเตโต้เชค รสวาซาบิ",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "วาซาบิจี๊ดจมูก ลองได้แต่เตรียมร้องไห้",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=wasabi"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=wasabi"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=wasabi"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/srisacha.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🔥 โปเตโต้เชค รสซอสศรีราชา",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ซอสศรีราชา ส้มแกมแดงปังไม่หยุด",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=srisacha"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=srisacha"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=srisacha"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/truffle.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🍄 โปเตโต้เชค รสทรัฟเฟิล",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "ทรัฟเฟิลหรูหรา กินแล้วรู้สึกเป็น CEO 🍄",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=truffle"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=truffle"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=truffle"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "8px",
+        "backgroundColor": "#FFFFFF",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+            "size": "xxl",
+            "aspectRatio": "300:95",
+            "aspectMode": "fit",
+            "align": "center"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/potato-shake/hot-spicy.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#FFFFFF",
+        "paddingAll": "16px",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🌶️ โปเตโต้เชค รสฮอทแอนด์สไปซี่",
+            "weight": "bold",
+            "size": "md",
+            "color": "#7A4F00",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "เผ็ดร้อนซู่ซ่า ทนได้เป็นเทพ",
+            "size": "xxs",
+            "color": "#A87838",
+            "wrap": true,
+            "margin": "xs"
+          },
+          {
+            "type": "text",
+            "text": "฿69",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#F4791F",
+            "margin": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#06C755",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "LINEMAN",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/potato-shake?src=05&variant=hot-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "LINEMAN",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#00B14F",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "GrabFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/potato-shake?src=05&variant=hot-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "GrabFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "backgroundColor": "#EE4D2D",
+            "cornerRadius": "8px",
+            "paddingAll": "4px",
+            "paddingStart": "8px",
+            "paddingEnd": "8px",
+            "spacing": "sm",
+            "action": {
+              "type": "uri",
+              "label": "ShopeeFood",
+              "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/potato-shake?src=05&variant=hot-spicy"
+            },
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+                "size": "xxs",
+                "aspectRatio": "1:1",
+                "aspectMode": "fit",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ShopeeFood",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FFFFFF",
+                "gravity": "center",
+                "align": "start",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
