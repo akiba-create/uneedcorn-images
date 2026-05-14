@@ -1,0 +1,83 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "8px",
+    "backgroundColor": "#FFFFFF",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+        "size": "xxl",
+        "aspectRatio": "300:95",
+        "aspectMode": "fit",
+        "align": "center"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@main/covers/loyalty.png",
+    "size": "full",
+    "aspectRatio": "3:4",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#FFFFFF",
+    "paddingAll": "16px",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎫 บัตรสะสมแต้ม UNEEDCORN",
+        "weight": "bold",
+        "size": "md",
+        "color": "#7A4F00",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "แสดงหน้าจอนี้ให้พนักงานเพื่อรับส่วนลด 15% สั่งซื้อหน้าร้าน • ใช้ได้จำนวน 1 ครั้งภายใน 7 วัน",
+        "size": "xxs",
+        "color": "#A87838",
+        "wrap": true,
+        "margin": "xs"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "10px",
+    "spacing": "xs",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#F4791F",
+        "cornerRadius": "8px",
+        "paddingTop": "10px",
+        "paddingBottom": "10px",
+        "action": {
+          "type": "uri",
+          "label": "สะสมแต้ม",
+          "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/loyalty/card?src=10&to=https%3A%2F%2Fu.lin.ee%2F7NgJWQe"
+        },
+        "contents": [
+          {
+            "type": "text",
+            "text": "🎯 สะสมแต้ม / ดูบัตรของฉัน",
+            "color": "#FFFFFF",
+            "weight": "bold",
+            "size": "sm",
+            "align": "center"
+          }
+        ]
+      }
+    ]
+  }
+}

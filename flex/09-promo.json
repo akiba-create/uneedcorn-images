@@ -1,0 +1,173 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "8px",
+    "backgroundColor": "#FFFFFF",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+        "size": "xxl",
+        "aspectRatio": "300:95",
+        "aspectMode": "fit",
+        "align": "center"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@main/covers/promo.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#FFFFFF",
+    "paddingAll": "16px",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎉 ฟินX3 — เลือกได้ทุกรสชาติ",
+        "weight": "bold",
+        "size": "md",
+        "color": "#7A4F00",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "คอร์นเชค 1 แก้ว + โปเตโต้เชค 1 แก้ว + โซดาดริ้งค์ 1 แก้ว",
+        "size": "xxs",
+        "color": "#A87838",
+        "wrap": true,
+        "margin": "xs"
+      },
+      {
+        "type": "text",
+        "text": "฿179",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#F4791F",
+        "margin": "sm"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "10px",
+    "spacing": "xs",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "backgroundColor": "#06C755",
+        "cornerRadius": "8px",
+        "paddingAll": "4px",
+        "paddingStart": "8px",
+        "paddingEnd": "8px",
+        "spacing": "sm",
+        "action": {
+          "type": "uri",
+          "label": "LINEMAN",
+          "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/lineman/promo?src=09&variant=cornx3"
+        },
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/lineman.png",
+            "size": "xxs",
+            "aspectRatio": "1:1",
+            "aspectMode": "fit",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "LINEMAN",
+            "weight": "bold",
+            "size": "sm",
+            "color": "#FFFFFF",
+            "gravity": "center",
+            "align": "start",
+            "flex": 1
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "backgroundColor": "#00B14F",
+        "cornerRadius": "8px",
+        "paddingAll": "4px",
+        "paddingStart": "8px",
+        "paddingEnd": "8px",
+        "spacing": "sm",
+        "action": {
+          "type": "uri",
+          "label": "GrabFood",
+          "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/grab/promo?src=09&variant=cornx3"
+        },
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/grab.png",
+            "size": "xxs",
+            "aspectRatio": "1:1",
+            "aspectMode": "fit",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "GrabFood",
+            "weight": "bold",
+            "size": "sm",
+            "color": "#FFFFFF",
+            "gravity": "center",
+            "align": "start",
+            "flex": 1
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "backgroundColor": "#EE4D2D",
+        "cornerRadius": "8px",
+        "paddingAll": "4px",
+        "paddingStart": "8px",
+        "paddingEnd": "8px",
+        "spacing": "sm",
+        "action": {
+          "type": "uri",
+          "label": "ShopeeFood",
+          "uri": "https://uneedcorn-redirect.akiba-9dd.workers.dev/r/shopee/promo?src=09&variant=cornx3"
+        },
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@160e9c5/logos/shopee.png",
+            "size": "xxs",
+            "aspectRatio": "1:1",
+            "aspectMode": "fit",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "ShopeeFood",
+            "weight": "bold",
+            "size": "sm",
+            "color": "#FFFFFF",
+            "gravity": "center",
+            "align": "start",
+            "flex": 1
+          }
+        ]
+      }
+    ]
+  }
+}
