@@ -1,0 +1,66 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "8px",
+    "backgroundColor": "#FFFFFF",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@9d4d610/logos/logo-uneedcorn.png",
+        "size": "xxl",
+        "aspectRatio": "300:95",
+        "aspectMode": "fit",
+        "align": "center"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@main/covers/loyalty.png",
+    "size": "full",
+    "aspectRatio": "3:4",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "backgroundColor": "#FFFFFF",
+    "paddingAll": "16px",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎟️ คูปองส่วนลด 15%",
+        "weight": "bold",
+        "size": "md",
+        "color": "#7A4F00",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "แสดงหน้าจอนี้ให้พนักงานเพื่อรับส่วนลดทันที",
+        "size": "xxs",
+        "color": "#A87838",
+        "wrap": true,
+        "margin": "xs"
+      },
+      {
+        "type": "text",
+        "text": "• สำหรับการสั่งซื้อหน้าร้าน",
+        "size": "xxs",
+        "color": "#A87838",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "• ใช้ได้ 1 ครั้ง ภายใน 7 วันหลังจากได้รับ",
+        "size": "xxs",
+        "color": "#A87838",
+        "wrap": true
+      }
+    ]
+  }
+}

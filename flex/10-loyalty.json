@@ -17,34 +17,28 @@
       }
     ]
   },
-  "hero": {
-    "type": "image",
-    "url": "https://cdn.jsdelivr.net/gh/akiba-create/uneedcorn-images@main/covers/loyalty.png",
-    "size": "full",
-    "aspectRatio": "3:4",
-    "aspectMode": "cover"
-  },
   "body": {
     "type": "box",
     "layout": "vertical",
     "backgroundColor": "#FFFFFF",
-    "paddingAll": "16px",
+    "paddingAll": "20px",
     "spacing": "sm",
     "contents": [
       {
         "type": "text",
-        "text": "🎫 บัตรสะสมแต้ม UNEEDCORN",
+        "text": "🎁 สิทธิพิเศษสำหรับลูกค้า",
         "weight": "bold",
         "size": "md",
         "color": "#7A4F00",
+        "align": "center",
         "wrap": true
       },
       {
         "type": "text",
-        "text": "แสดงหน้าจอนี้ให้พนักงานเพื่อรับส่วนลด 15% สั่งซื้อหน้าร้าน • ใช้ได้จำนวน 1 ครั้งภายใน 7 วัน",
-        "size": "xxs",
+        "text": "เลือกสิ่งที่ต้องการ",
+        "size": "xs",
         "color": "#A87838",
-        "wrap": true,
+        "align": "center",
         "margin": "xs"
       }
     ]
@@ -53,15 +47,39 @@
     "type": "box",
     "layout": "vertical",
     "paddingAll": "10px",
-    "spacing": "xs",
+    "spacing": "md",
     "contents": [
       {
         "type": "box",
         "layout": "vertical",
         "backgroundColor": "#F4791F",
         "cornerRadius": "8px",
-        "paddingTop": "10px",
-        "paddingBottom": "10px",
+        "paddingTop": "12px",
+        "paddingBottom": "12px",
+        "action": {
+          "type": "postback",
+          "label": "รับคูปองลด 15%",
+          "data": "menu=coupon&src=loyalty",
+          "displayText": "รับคูปองลด 15%"
+        },
+        "contents": [
+          {
+            "type": "text",
+            "text": "🎟️ รับคูปองลด 15%",
+            "color": "#FFFFFF",
+            "weight": "bold",
+            "size": "md",
+            "align": "center"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#7A4F00",
+        "cornerRadius": "8px",
+        "paddingTop": "12px",
+        "paddingBottom": "12px",
         "action": {
           "type": "uri",
           "label": "สะสมแต้ม",
@@ -73,7 +91,7 @@
             "text": "🎯 สะสมแต้ม / ดูบัตรของฉัน",
             "color": "#FFFFFF",
             "weight": "bold",
-            "size": "sm",
+            "size": "md",
             "align": "center"
           }
         ]
